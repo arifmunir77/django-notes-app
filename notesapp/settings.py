@@ -94,8 +94,8 @@ DATABASES = {
         'NAME': 'test_db',
         'USER':'root',
         'PASSWORD':'root',
-        'HOST':'3306',
-        'PORT': 'db_cont',
+        'HOST':'db_cont',
+        'PORT': '3306',
     }
 }
 
